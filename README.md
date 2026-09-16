@@ -1,8 +1,10 @@
 2026/09/16 15:47:11
 
-<!-- notify 1/2 · Datk7gU4 -->
-## Notification 1/2
-Round: Round 1
-To: jhmorris2001@yahoo.com, kmrock@rochester.rr.com
-At: 2026-09-16 15:47:19
-Id: Datk7gU4
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: svillarreal2@comcast.net, cprodriguez44@yahoo.com
+At: 2026-09-16 15:47:27
+Id: BYCy9zmJ
